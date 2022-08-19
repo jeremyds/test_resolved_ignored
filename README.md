@@ -14,3 +14,7 @@ dede qw dwew fver
   ed 
   cedf 
   de
+test enc
+ec
+q
+we ew
